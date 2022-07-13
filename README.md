@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gracied17
-- 👀 I’m interested in being a software developer
-- 🌱 I’m currently learning Finance and Computer Science
+- 👀 I’m interested in web development and indie game development
+- 🌱 I’m currently majoring in Computer Science at Tulane University
 - 💞️ I’m looking to collaborate on projects that involve game/app development
 - 📫 How to reach me: email is gydunaway03@gmail.com and phone# is 8506071028
 
